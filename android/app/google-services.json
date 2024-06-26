@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "114199149182",
+    "project_id": "coinone-9273c",
+    "storage_bucket": "coinone-9273c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114199149182:android:052240bbd051f672ab362f",
+        "android_client_info": {
+          "package_name": "com.example.coinone_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcxLvF1NAY6B9brjgb9X3zIUGKWyAiNzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
